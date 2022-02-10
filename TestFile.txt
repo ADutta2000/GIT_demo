@@ -2,3 +2,5 @@ Change@1 :Change in the master to try out rebase.
 Change#2
 
 To perform rebase using Idea branch
+
+Making change in the TestFile of Master
