@@ -3,4 +3,4 @@ Change#2
 
 To perform rebase using Idea branch
 
-Making change in the TestFile of Master
+Making change in the TestFile of Master. This is GIT demo.
