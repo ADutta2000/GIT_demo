@@ -9,3 +9,4 @@ A -> B -> C -> Z
 New Commit C in Master... starting point...
 
 New Commit Z in Master
+New Commit G in child
